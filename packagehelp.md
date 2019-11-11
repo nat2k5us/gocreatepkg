@@ -19,3 +19,38 @@ For more about the build flags, see 'go help build'.
 For more about specifying packages, see 'go help packages'.
 
 See also: go build, go get, go clean.
+
+# The Go Environment
+$ go env
+set GO111MODULE=
+set GOARCH=amd64
+set GOBIN=
+set GOCACHE=C:\Users\xxxx\AppData\Local\go-build
+set GOENV=C:\Users\xxx\AppData\Roaming\go\env
+set GOEXE=.exe
+set GOFLAGS=
+set GOHOSTARCH=amd64
+set GOHOSTOS=windows
+set GONOPROXY=
+set GONOSUMDB=
+set GOOS=windows
+set GOPATH=C:\Users\xxx\go
+set GOPRIVATE=
+set GOPROXY=https://proxy.golang.org,direct
+set GOROOT=c:\go
+set GOSUMDB=sum.golang.org
+set GOTMPDIR=
+set GOTOOLDIR=c:\go\pkg\tool\windows_amd64
+set GCCGO=gccgo
+set AR=ar
+set CC=gcc
+set CXX=g++
+set CGO_ENABLED=1
+set GOMOD=
+set CGO_CFLAGS=-g -O2
+set CGO_CPPFLAGS=
+set CGO_CXXFLAGS=-g -O2
+set CGO_FFLAGS=-g -O2
+set CGO_LDFLAGS=-g -O2
+set PKG_CONFIG=pkg-config
+set GOGCCFLAGS=-m64 -mthreads -fno-caret-diagnostics -Qunused-arguments -fmessage-length=0 -fdebug-prefix-map=C:\Users\xxx\AppData\Local\Temp\go-build762227030=/tmp/go-build -gno-record-gcc-switches
