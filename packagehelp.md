@@ -22,8 +22,8 @@ See also: go build, go get, go clean.
 
 # The Go Environment
 $ go env
-set GO111MODULE=
-set GOARCH=amd64
+-- set GO111MODULE=
+-- set GOARCH=amd64
 set GOBIN=
 set GOCACHE=C:\Users\xxxx\AppData\Local\go-build
 set GOENV=C:\Users\xxx\AppData\Roaming\go\env
