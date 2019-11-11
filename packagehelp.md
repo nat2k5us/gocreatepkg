@@ -1,4 +1,6 @@
 # GO Creating Package HELP
+## The 'go install' command when run from the within the folder that had the pacakage called 'ellipse' was not copying the file to the GOPATH src directory. it was not reporting any error as well. But the main program which refernced the ellipse package would not find it.
+
 $ go help install
 usage: go install [-i] [build flags] [packages]
 
